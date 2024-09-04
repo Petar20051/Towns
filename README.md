@@ -1,2 +1,6 @@
-# Towns for SoftUni
-Code for the Git and GitHub Exercise
+# Roles
+Petar takes the role "Editor"
+
+Petar takes the role "Shuffler"
+
+Petar takes the role "Styler"
